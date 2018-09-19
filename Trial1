@@ -1,2 +1,2 @@
->>> import keyword
->>> keyword.kwlist
+import keyword
+keyword.kwlist
